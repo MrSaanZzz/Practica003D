@@ -1,0 +1,11 @@
+.color_b{
+    color:rgb(52, 50, 50)!important;
+    background-color: rgb(41, 195, 195)  ;
+}
+html {
+    height: 140%;
+  }
+  body {
+   background: linear-gradient(rgba(235, 224, 230, 0.967), rgb(125, 226, 201));
+   height: 140%;
+  }
